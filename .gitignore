@@ -48,6 +48,18 @@ sysinfo.txt
 *.aab
 *.unitypackage
 
+# Local WebGL export, recordings, and editor logs
+/Planet_shot/
+/Recordings/
+*.log
+
+# Local credentials
+.env
+.env.*
+!.env.example
+*.keystore
+*.jks
+
 # Gradle
 .gradle/
 
