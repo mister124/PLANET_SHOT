@@ -41,9 +41,3 @@
 | `Packages/` | Unity 패키지 의존성 |
 | `ProjectSettings/` | Unity 버전과 프로젝트 설정 |
 
-
-
-- 바탕화면의 `PS_tool`: 이미지·음원·폰트 등 제작 재료를 모아 둔 폴더입니다. 프로젝트에서 사용하는 파일은 `Assets`에 포함합니다.
-
-`PS`와 `PS_tool`은 이 프로젝트를 여는 데 필요한 별도 경로로 연결되어 있지 않습니다.
-Unity가 다시 생성하는 `Library`, 로컬 빌드 결과 `Planet_shot`, 녹화물 `Recordings`, 로그는 Git에서 제외합니다.
