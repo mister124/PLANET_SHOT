@@ -41,16 +41,8 @@
 | `Packages/` | Unity 패키지 의존성 |
 | `ProjectSettings/` | Unity 버전과 프로젝트 설정 |
 
-## WebGL 빌드
 
-Unity Hub에서 해당 에디터의 WebGL Build Support를 설치합니다.
-Unity의 Build Settings에서 WebGL을 선택하고 `HomeScene`, `SampleScene` 순서로 장면을 포함해 빌드합니다.
-자동화용 `WebGLBuild.Build`도 같은 장면들을 사용하며 결과를 `Builds/WebGL`에 만듭니다.
 
-## 로컬 작업 폴더 구분
-
-- 이 저장소의 루트 폴더: `Assets`, `Packages`, `ProjectSettings`가 있는 Unity 원본 프로젝트입니다. 로컬 폴더 이름과 관계없이 Unity Hub에서 이 폴더를 추가합니다.
-- 바탕화면의 `PS`: WebGL 실행 파일과 버전별 배포 ZIP, 일부 작업용 음원이 있는 폴더입니다.
 - 바탕화면의 `PS_tool`: 이미지·음원·폰트 등 제작 재료를 모아 둔 폴더입니다. 프로젝트에서 사용하는 파일은 `Assets`에 포함합니다.
 
 `PS`와 `PS_tool`은 이 프로젝트를 여는 데 필요한 별도 경로로 연결되어 있지 않습니다.
