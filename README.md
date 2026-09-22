@@ -49,7 +49,7 @@ Unity의 Build Settings에서 WebGL을 선택하고 `HomeScene`, `SampleScene` �
 
 ## 로컬 작업 폴더 구분
 
-- `GameRepository/PLANET_SHOT`: 이 저장소에 해당하는 Unity 원본 프로젝트입니다.
+- 이 저장소의 루트 폴더: `Assets`, `Packages`, `ProjectSettings`가 있는 Unity 원본 프로젝트입니다. 로컬 폴더 이름과 관계없이 Unity Hub에서 이 폴더를 추가합니다.
 - 바탕화면의 `PS`: WebGL 실행 파일과 버전별 배포 ZIP, 일부 작업용 음원이 있는 폴더입니다.
 - 바탕화면의 `PS_tool`: 이미지·음원·폰트 등 제작 재료를 모아 둔 폴더입니다. 프로젝트에서 사용하는 파일은 `Assets`에 포함합니다.
 
