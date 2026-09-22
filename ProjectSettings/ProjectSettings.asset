@@ -865,14 +865,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AI_Slayer
+  metroPackageName: PLANET_SHOT
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: AI_Slayer
+  metroApplicationDescription: PLANET_SHOT
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -944,7 +944,7 @@ PlayerSettings:
   cloudProjectId: 0c6082af-20cf-4dc8-b772-71493d590fed
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AI_Slayer
+  projectName: PLANET_SHOT
   organizationId: mister0124
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0

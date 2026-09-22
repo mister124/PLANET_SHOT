@@ -1,7 +1,7 @@
-# PLANET SHOT
+# PLANET_SHOT
 
 같은 종류의 행성을 합쳐 더 큰 행성을 만들고 높은 점수에 도전하는 Unity 2D 게임입니다.
-저장소 이름은 프로젝트를 시작할 때 사용한 `AI_Slayer`이며, 게임 이름은 **PLANET SHOT**입니다.
+프로젝트와 저장소 이름은 **PLANET_SHOT**입니다.
 
 [웹에서 플레이하기](https://jin031009.itch.io/planet-shot)
 
@@ -49,7 +49,7 @@ Unity의 Build Settings에서 WebGL을 선택하고 `HomeScene`, `SampleScene` �
 
 ## 로컬 작업 폴더 구분
 
-- `GameRepository/AI_Slayer`: 이 저장소에 해당하는 Unity 원본 프로젝트입니다.
+- `GameRepository/PLANET_SHOT`: 이 저장소에 해당하는 Unity 원본 프로젝트입니다.
 - 바탕화면의 `PS`: WebGL 실행 파일과 버전별 배포 ZIP, 일부 작업용 음원이 있는 폴더입니다.
 - 바탕화면의 `PS_tool`: 이미지·음원·폰트 등 제작 재료를 모아 둔 폴더입니다. 프로젝트에서 사용하는 파일은 `Assets`에 포함합니다.
 
